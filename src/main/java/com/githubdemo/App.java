@@ -5,6 +5,7 @@ public class App {
         
         System.out.println("Welcome to GitHub!");
         System.out.println("Another line added to the code");
+        System.out.println("GitHub is great!");
 
     }
 }
